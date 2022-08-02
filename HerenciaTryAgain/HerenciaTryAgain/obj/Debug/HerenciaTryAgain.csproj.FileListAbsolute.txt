@@ -1,0 +1,8 @@
+C:\Users\Lagartijo\source\repos\HerenciaTryAgain\HerenciaTryAgain\bin\Debug\HerenciaTryAgain.exe.config
+C:\Users\Lagartijo\source\repos\HerenciaTryAgain\HerenciaTryAgain\bin\Debug\HerenciaTryAgain.exe
+C:\Users\Lagartijo\source\repos\HerenciaTryAgain\HerenciaTryAgain\bin\Debug\HerenciaTryAgain.pdb
+C:\Users\Lagartijo\source\repos\HerenciaTryAgain\HerenciaTryAgain\obj\Debug\HerenciaTryAgain.csproj.AssemblyReference.cache
+C:\Users\Lagartijo\source\repos\HerenciaTryAgain\HerenciaTryAgain\obj\Debug\HerenciaTryAgain.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lagartijo\source\repos\HerenciaTryAgain\HerenciaTryAgain\obj\Debug\HerenciaTryAgain.csproj.CoreCompileInputs.cache
+C:\Users\Lagartijo\source\repos\HerenciaTryAgain\HerenciaTryAgain\obj\Debug\HerenciaTryAgain.exe
+C:\Users\Lagartijo\source\repos\HerenciaTryAgain\HerenciaTryAgain\obj\Debug\HerenciaTryAgain.pdb
